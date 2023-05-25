@@ -1,0 +1,14 @@
+.projSec{
+    color: #f09;
+    padding: 20px;
+  }
+.c1{
+  background-color: #c1c1;
+}
+  .c1:hover{
+    
+    transform: scale(1.10);
+    z-index: 10;
+    background-color: rgb(196, 0, 108);
+    
+  }

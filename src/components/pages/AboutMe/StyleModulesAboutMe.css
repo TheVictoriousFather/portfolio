@@ -1,0 +1,47 @@
+.textAboutme {
+    padding-top: 100px;
+    text-align: justify;
+    }
+   
+    .title2Aboutme,.anim,.titleAboutme{
+        padding: 1px 30px 20px 30px;
+        color:#f09;
+        text-align: center;
+    }
+    .imageAboutme{
+      align-items: center;
+      padding: 30px ;
+    }
+    @media screen and (min-width:1024px){
+  
+    }
+    
+    @media screen and (max-width:767px){
+      .textAboutme {
+        padding-top: 100px;
+        text-align: justify;
+        }
+       
+        .title2Aboutme,.anim,.titleAboutme{
+            padding: 1px 30px 20px 30px;
+            color:#f09;
+            text-align: center;
+        }
+        .imageAboutme{
+          align-items: center;
+          padding: 30px ;
+          width: 20px;
+        }
+    }
+    #Layer_1,#Us,#Br{
+      fill: #f09;  width: 50px;
+      height: 50px;
+    }
+    #Layer_1,#Us,#Br:hover{
+      fill: #f09;  width: 50px;
+      height: 50px;
+      cursor: pointer;
+    }
+    
+   
+    

@@ -1,0 +1,157 @@
+.my-3{
+  margin-left: 2rem;
+}
+#html, #css, #js,#react {
+    padding: 20px;
+  animation: icon3d 200ms 10;
+    fill:#f09;
+  font-size: 200px;
+   border-radius: 10px;
+  margin: 10px;
+
+  
+}
+
+.skilsinfo{
+  padding-top: 100px;
+  text-align: justify ;
+  
+  }
+.skilsSec{
+  color: #f09;
+  padding: 20px;
+}
+.skills {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+.icon-table {
+  font-size: 2rem;
+  text-align: center;
+}
+
+.icon-table td {
+  padding: 1rem;
+}
+
+.text {
+  display: flex;
+  flex-direction: column;
+}
+
+.text p {
+  margin: 1rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: justify;
+}
+
+.text p {
+  display: none;
+}
+
+.visible {
+  display: block;
+}
+
+.hidden {
+  display: none;
+}
+#texto1,#texto2,#texto3,#texto4 {
+  display: none;
+}
+
+#html:hover, #css:hover,#js:hover,#react:hover {
+  
+  
+font-size: 200px;
+ border-radius: 10px;
+margin: 10px;
+ animation: icon3d 200ms infinite;
+
+}
+
+@keyframes icon3d {
+  0% {
+    filter: drop-shadow(5px 4px  rgba(244,67,54,1));
+  }
+  10%{
+    filter: drop-shadow(-5px -6px rgba(33,150,243,1));
+  }
+  
+  25% {
+    filter:drop-shadow (-5px -6px rgba(244,67,54,1));
+  }
+  30%{
+    filter: drop-shadow( 5px 4px rgba(33,150,243,1));
+  }
+
+  50% {
+    filter:drop-shadow( 5px -4px rgba(244,67,54,1));
+  }
+  60%{
+   filter:drop-shadow(-8px 4px rgba(33,150,243,1));
+  }
+  75%{
+    filter:drop-shadow(-8px -4px rgba(244,67,54,1));
+   }
+   80%{
+    filter:drop-shadow(-5px -4px rgba(33,150,243,1));
+   }
+   99%{
+    filter:drop-shadow( -5px 0 rgba(244,67,54,1));
+   }
+   100%{
+    filter:drop-shadow( 5px -4px rgba(33,150,243,1));
+   }
+
+ 
+}
+@media screen and (max-width:760px){
+  #html, #css, #js,#react {
+    padding: 4px;
+  animation: icon3d 200ms 10;
+    fill:#f09;
+  font-size: 100px;
+   border-radius: 10px;
+  margin: 10px;
+
+  
+}
+#html:hover, #css:hover,#js:hover,#react:hover {
+  
+  
+  font-size: 100px;
+   border-radius: 10px;
+  margin: 10px;
+   animation: icon3d 200ms infinite;
+  
+  }
+
+}
+@media screen and (max-width:px){
+  #html, #css, #js,#react {
+    padding: 4px;
+  animation: icon3d 200ms 10;
+    fill:#f09;
+  font-size: 100px;
+   border-radius: 10px;
+  margin: 10px;
+
+  
+}
+#html:hover, #css:hover,#js:hover,#react:hover {
+  
+  
+  font-size: 100px;
+   border-radius: 10px;
+  margin: 10px;
+   animation: icon3d 200ms infinite;
+  
+  }
+
+}
+

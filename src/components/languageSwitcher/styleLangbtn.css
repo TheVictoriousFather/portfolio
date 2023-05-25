@@ -1,0 +1,176 @@
+.navneon{
+    color: rgb(255, 2, 175);
+    text-shadow: 
+    0 0 7px #fff,
+  }
+  .navneon:hover{
+    color: rgb(255, 255, 255);
+    text-shadow: 
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px #f09,
+    0 0 82px #f09,
+    0 0 92px #f09,
+    0 0 102px #f09,
+    0 0 151px #f09;
+    animation: glow 0.50s ease-in-out infinite alternate-reverse;
+  
+  }
+  @keyframes glow {
+    100%{
+      text-shadow: 
+      0 0 4px #fff,
+      0 0 11px #fff,
+      0 0 19px #fff,
+      0 0 40px #f09,
+      0 0 80px #f09,
+      0 0 90px #f09,
+      0 0 100px #f09,
+      0 0 150px #f09;;
+    }
+    0%{
+      text-shadow: 
+      0 0 4px #fff,
+      0 0 10px #fff,
+      0 0 18px #fff,
+      0 0 38px #f09,
+      0 0 73px #f09,
+      0 0 80px #f09,
+      0 0 94px #f09,
+      0 0 140px #f09;;
+    }
+  } 
+  .active{
+    
+    color: rgb(252, 252, 252)!important;
+    text-shadow: 
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px #f09,
+    0 0 82px #f09,
+    0 0 92px #f09,
+    0 0 102px #f09,
+    0 0 151px #f09;
+    animation: glow 0.50s ease-in-out infinite alternate-reverse;
+  
+  }
+  @keyframes glow {
+    100%{
+      text-shadow: 
+      0 0 4px #fff,
+      0 0 11px #fff,
+      0 0 19px #fff,
+      0 0 40px #f09,
+      0 0 80px #f09,
+      0 0 90px #f09,
+      0 0 100px #f09,
+      0 0 150px #f09;;
+    }
+    0%{
+      text-shadow: 
+      0 0 4px #fff,
+      0 0 10px #fff,
+      0 0 18px #fff,
+      0 0 38px #f09,
+      0 0 73px #f09,
+      0 0 80px #f09,
+      0 0 94px #f09,
+      0 0 140px #f09;;
+    }
+  } 
+  .droptoggle:active{
+    background-color: rgb(0, 0, 0);
+    
+  }
+  .droptoggle:hover{
+    background-color: rgb(52, 42, 42);
+    
+  }
+  .navneon2{
+    fill: rgb(255, 2, 175);
+    text-shadow: 
+    0 0 7px #fff,
+  }
+  .navneon2:hover{
+    fill: rgb(255, 255, 255);
+    text-shadow: 
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px #f09,
+    0 0 82px #f09,
+    0 0 92px #f09,
+    0 0 102px #f09,
+    0 0 151px #f09;
+    animation: glow 0.50s ease-in-out infinite alternate-reverse;
+  
+  }
+  @keyframes glow {
+    100%{
+      text-shadow: 
+      0 0 4px #fff,
+      0 0 11px #fff,
+      0 0 19px #fff,
+      0 0 40px #f09,
+      0 0 80px #f09,
+      0 0 90px #f09,
+      0 0 100px #f09,
+      0 0 150px #f09;;
+    }
+    0%{
+      text-shadow: 
+      0 0 4px #fff,
+      0 0 10px #fff,
+      0 0 18px #fff,
+      0 0 38px #f09,
+      0 0 73px #f09,
+      0 0 80px #f09,
+      0 0 94px #f09,
+      0 0 140px #f09;;
+    }
+  } 
+  .active{
+    
+    fill: rgb(252, 252, 252)!important;
+    text-shadow: 
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px #f09,
+    0 0 82px #f09,
+    0 0 92px #f09,
+    0 0 102px #f09,
+    0 0 151px #f09;
+    animation: glow 0.50s ease-in-out infinite alternate-reverse;
+  
+  }
+  @keyframes glow {
+    100%{
+      text-shadow: 
+      0 0 4px #fff,
+      0 0 11px #fff,
+      0 0 19px #fff,
+      0 0 40px #f09,
+      0 0 80px #f09,
+      0 0 90px #f09,
+      0 0 100px #f09,
+      0 0 150px #f09;;
+    }
+    0%{
+      text-shadow: 
+      0 0 4px #fff,
+      0 0 10px #fff,
+      0 0 18px #fff,
+      0 0 38px #f09,
+      0 0 73px #f09,
+      0 0 80px #f09,
+      0 0 94px #f09,
+      0 0 140px #f09;;
+    }
+  } 
+  .Dropdown.Menu{
+    border-radius: 10px;
+  }
+ 

@@ -1,0 +1,159 @@
+ .error,.error{
+    color: #f09;
+    font-size: 100px;
+  }
+  .bg{
+    background-image: url(./../../../img/soldiers3.png);
+    background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  }
+ .error,.error{
+    color: rgb(255, 2, 175);
+    text-shadow: 
+    0 0 7px #fff,
+  }
+  .error,.error:hover{
+    color: rgb(255, 255, 255);
+    text-shadow: 
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px #f09,
+    0 0 82px #f09,
+    0 0 92px #f09,
+    0 0 102px #f09,
+    0 0 151px #f09;
+    animation: glow 0.50s ease-in-out infinite alternate-reverse;
+  
+  }
+  @keyframes glow { 
+    100%{
+      text-shadow: 
+      0 0 4px #fff,
+      0 0 11px #fff,
+      0 0 19px #fff,
+      0 0 40px #f09,
+      0 0 80px #f09,
+      0 0 90px #f09,
+      0 0 100px #f09,
+      0 0 150px #f09;;
+    }
+    0%{
+      text-shadow: 
+      0 0 4px #fff,
+      0 0 10px #fff,
+      0 0 18px #fff,
+      0 0 38px #f09,
+      0 0 73px #f09,
+      0 0 80px #f09,
+      0 0 94px #f09,
+      0 0 140px #f09;;
+    }
+  } 
+
+
+
+
+  
+  
+  .error1 {
+    color: #f09;
+    font-size: 20px;
+   }
+  .error1  {
+    color: rgb(255, 2, 175);
+    text-shadow: 
+    0 0 7px #fff,
+  }
+  .error1,.error1 :hover{
+    color: rgb(255, 255, 255);
+    text-shadow: 
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px #f09,
+    0 0 82px #f09,
+    0 0 92px #f09,
+    0 0 102px #f09,
+    0 0 151px #f09;
+    animation: glow 0.50s ease-in-out infinite alternate-reverse;
+  
+  }
+  @keyframes glow {
+    100%{
+      text-shadow: 
+      0 0 4px #fff,
+      0 0 11px #fff,
+      0 0 19px #fff,
+      0 0 40px #f09,
+      0 0 80px #f09,
+      0 0 90px #f09,
+      0 0 100px #f09,
+      0 0 150px #f09;;
+    }
+    0%{
+      text-shadow: 
+      0 0 4px #fff,
+      0 0 10px #fff,
+      0 0 18px #fff,
+      0 0 38px #f09,
+      0 0 73px #f09,
+      0 0 80px #f09,
+      0 0 94px #f09,
+      0 0 140px #f09;;
+    }
+  
+}
+.errorbtn{
+    color: #f09;
+    font-size: 20px;
+  }
+ .errorbtn{
+    color: rgb(255, 2, 175);
+    text-shadow: 
+    0 0 7px #fff,
+  }
+  .errorbtn:hover{
+    color: rgb(255, 255, 255);
+    text-shadow: 
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px #f09,
+    0 0 82px #f09,
+    0 0 92px #f09,
+    0 0 102px #f09,
+    0 0 151px #f09;
+    animation: glow 0.50s ease-in-out infinite alternate-reverse;
+  
+  }
+  @keyframes glow { 
+    100%{
+      text-shadow: 
+      0 0 4px #fff,
+      0 0 11px #fff,
+      0 0 19px #fff,
+      0 0 40px #f09,
+      0 0 80px #f09,
+      0 0 90px #f09,
+      0 0 100px #f09,
+      0 0 150px #f09;;
+    }
+    0%{
+      text-shadow: 
+      0 0 4px #fff,
+      0 0 10px #fff,
+      0 0 18px #fff,
+      0 0 38px #f09,
+      0 0 73px #f09,
+      0 0 80px #f09,
+      0 0 94px #f09,
+      0 0 140px #f09;;
+    }
+  } 
+
+
+
